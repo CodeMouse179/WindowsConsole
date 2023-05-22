@@ -1,0 +1,3 @@
+﻿#ifndef WINDOWS_CONSOLE_H
+#define WINDOWS_CONSOLE_H
+#endif

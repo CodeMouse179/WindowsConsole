@@ -1,0 +1,7 @@
+#.gitignore
+.vs
+x64
+*.vcxproj.filters
+*.vcxproj.user
+/WindowsConsole.exe
+/WindowsConsole.pdb
